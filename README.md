@@ -32,7 +32,7 @@ I also maintain our [API Center](https://docs.kraken.com/api/) website, the one-
 
 #### Contacting me
 
-There are a couple of ways to reach out to me. You could contact me by email [claude.enriquez@kraken.com](mailto:claude.enriquez@kraken.com), or by raising an issue on my [profile repository](https://github.com/claudeenriquez/claudeenriquez/issues).
+There are multiple ways to reach out to me. You could contact me by email [claude.enriquez@kraken.com](mailto:claude.enriquez@kraken.com), connecting with me on [Linkedin](https://www.linkedin.com/in/claude-enriquez/), or by raising an issue on my [profile repository](https://github.com/claudeenriquez/claudeenriquez/issues).
 
 Please note that I would never ask you for your password. Be weary of phishing scams and impersonators. <img src="emojis/paranoid_kraken.png" width=20>
 
